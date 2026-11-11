@@ -1,0 +1,9 @@
+# Code Files
+*.cxx text eol=lf
+*.hxx text eol=lf
+
+# Build Files
+CMakeLists.txt text eol=lf
+cmakelists.txt text eol=lf
+Makefile text eol=lf
+makefile text eol=lf
